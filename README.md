@@ -31,3 +31,8 @@ The simulator models:
 ##  How to Run the Program
 
 1. Save the file as:
+PacketSwitchingSimulator.java
+
+2. Open a terminal in the same folder and compile:
+```bash
+javac PacketSwitchingSimulator.java 
